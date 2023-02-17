@@ -17,7 +17,7 @@ public class ConnectorDB {
 		session=sf.openSession();
 	}
 	
-	public Session getSession() {
+	public Session getSession2() {
 		return session;
 	}
 }
